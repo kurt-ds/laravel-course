@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>About Us</h1>
-  <p>Welcome to the About Us page of our website. Here you can learn more about our mission, values, and team.</p>
+  <p>Welcome to the About Us page of our website. Here you can learn more about our mission, values, and team. Hello!</p>
 </body>
 </html>
